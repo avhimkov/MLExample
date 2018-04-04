@@ -1,2 +1,2 @@
 # MLExample
-Machine learning example
+Machine learning examples
